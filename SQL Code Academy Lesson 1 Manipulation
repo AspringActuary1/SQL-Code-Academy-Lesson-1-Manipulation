@@ -1,0 +1,24 @@
+-- Lesson 1: Manipulation
+-- Page 1: Introduction to SQL
+
+-- This is how you make comments in SQL.
+-- SQL (Structured Query Language)  is a programming language designed to manage data stored in relational databases SQL operates through simple, declarative statements. This keeps data accurate and secure, and helps maintain the integrity of databases, regardless of size.
+-- https://www.codecademy.com/resources/docs/sql/about-sql
+-- https://www.codecademy.com/resources/docs/general/database/relational-database
+-- https://www.codecademy.com/resources/docs/general/database?page_ref=catalog
+-- The SQL language is widely used today across web frameworks and database applications. Knowing SQL gives you the freedom to explore your data, and the power to make better decisions. By learning SQL, you will also learn concepts that apply to nearly every data storage system.
+-- https://www.codecademy.com/article/relational-database-rdbms
+-- https://www.codecademy.com/article/sql-commands
+
+-- First Example of a SQL command
+SELECT * FROM celebs;
+
+-- Page 2: Relational Databases
+-- A relational database is a database that organizes information into one or more tables.
+-- A table is a collection of data organized into rows and columns. Tables are sometimes referred to as relations.
+-- A column is a set of data values of a particular type.
+-- A row is a single record in a table.
+-- All data stored in a relational database is of a certain data type. Some of the most common data types are: INTEGER (a positive or negative whole number), TEXT (a text string), DATE (the date formatted as YYYY-MM-DD), REAL (a decimal value)
+-- https://www.codecademy.com/resources/docs/sql/data-types?page_ref=catalog
+
+-- Page 3: Statements
